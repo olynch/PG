@@ -54,6 +54,7 @@
       (pgshell	 "PG-Shell" "pgsh")
       (pgocaml	 "PG-OCaml" "pgml")
       (pghaskell "PG-Haskell" "pghci")
+      (narya     "Narya" "ny")
 
       ;; Incomplete/obsolete:
 
